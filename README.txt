@@ -42,7 +42,7 @@ This project implements a gender classification system using deep learning. It i
 
 ```bash
 # Clone the repository
-git clone https://github.com/nithinpunyamanthula/Real-Time-Gender-Classification
+git clone https://github.com/nithinpunyamanthula/Real-Time-Gender-Classification.git
 cd facial-gender-detection
 
 # (Optional) Create a virtual environment
